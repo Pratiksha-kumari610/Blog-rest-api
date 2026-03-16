@@ -1,6 +1,6 @@
-package com.therajverma.blog.rest.api.repository;
+package com.thepratiksha.blog.rest.api.repository;
 
-import com.therajverma.blog.rest.api.entity.Role;
+import com.thepratiksha.blog.rest.api.entity.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
