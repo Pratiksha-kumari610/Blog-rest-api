@@ -1,7 +1,7 @@
-package com.therajverma.blog.rest.api.service;
+package com.thepratiksha.blog.rest.api.service;
 
-import com.therajverma.blog.rest.api.payload.LoginDto;
-import com.therajverma.blog.rest.api.payload.RegisterDto;
+import com.thepratiksha.blog.rest.api.payload.LoginDto;
+import com.thepratiksha.blog.rest.api.payload.RegisterDto;
 
 public interface AuthService {
     String login(LoginDto loginDto);
