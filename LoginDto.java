@@ -1,4 +1,4 @@
-package com.therajverma.blog.rest.api.payload;
+package com.thepratiksha.blog.rest.api.payload;
 
 
 import lombok.AllArgsConstructor;
