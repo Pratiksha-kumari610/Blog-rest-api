@@ -1,6 +1,6 @@
-package com.therajverma.blog.rest.api.exception;
+package com.thepratiksha.blog.rest.api.exception;
 
-import com.therajverma.blog.rest.api.payload.ErrorDetail;
+import com.thepratiksha.blog.rest.api.payload.ErrorDetail;
 import jakarta.annotation.Nullable;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
