@@ -1,10 +1,10 @@
-package com.therajverma.blog.rest.api.controller;
+package com.thepratiksha.blog.rest.api.controller;
 
 
 
-import com.therajverma.blog.rest.api.payload.LoginDto;
-import com.therajverma.blog.rest.api.payload.RegisterDto;
-import com.therajverma.blog.rest.api.service.AuthService;
+import com.thepratiksha.blog.rest.api.payload.LoginDto;
+import com.thepratiksha.blog.rest.api.payload.RegisterDto;
+import com.thepratiksha.blog.rest.api.service.AuthService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
