@@ -1,7 +1,7 @@
-package com.therajverma.blog.rest.api.controller;
+package com.thepratiksha.blog.rest.api.controller;
 
-import com.therajverma.blog.rest.api.entity.Comment;
-import com.therajverma.blog.rest.api.service.CommentService;
+import com.thepratikshablog.rest.api.entity.Comment;
+import com.thepratiksha.blog.rest.api.service.CommentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
