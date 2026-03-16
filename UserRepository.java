@@ -1,6 +1,6 @@
 package com.thepratiksha.blog.rest.api.repository;
 
-import com.therajverma.blog.rest.api.entity.User;
+import com.thepratiksha.blog.rest.api.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
