@@ -1,8 +1,8 @@
-package com.therajverma.blog.rest.api.Security;
+package com.thepratiksha.blog.rest.api.Security;
 
 
-import com.therajverma.blog.rest.api.entity.User;
-import com.therajverma.blog.rest.api.repository.UserRepository;
+import com.thepratiksha.blog.rest.api.entity.User;
+import com.thepratiksha.blog.rest.api.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
