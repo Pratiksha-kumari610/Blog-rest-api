@@ -1,6 +1,6 @@
-package com.therajverma.blog.rest.api.config;
+package com.thepratikshaa.blog.rest.api.config;
 
-import com.therajverma.blog.rest.api.Security.CustomUserDetailService;
+import com.thepratiksha.blog.rest.api.Security.CustomUserDetailService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;
