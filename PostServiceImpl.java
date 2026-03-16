@@ -1,9 +1,9 @@
-package com.therajverma.blog.rest.api.service.impl;
+package com.thepratiksha.blog.rest.api.service.impl;
 
-import com.therajverma.blog.rest.api.entity.Post;
-import com.therajverma.blog.rest.api.exception.ResourceNotFoundException;
-import com.therajverma.blog.rest.api.service.PostService;
-import com.therajverma.blog.rest.api.repository.PostRepository;
+import com.thepratiksha.blog.rest.api.entity.Post;
+import com.thepratiksha.blog.rest.api.exception.ResourceNotFoundException;
+import com.thepratiksha.blog.rest.api.service.PostService;
+import com.thepratiksha.blog.rest.api.repository.PostRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
