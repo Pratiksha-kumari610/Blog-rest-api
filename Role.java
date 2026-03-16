@@ -1,4 +1,4 @@
-package com.therajverma.blog.rest.api.entity;
+package com.thepratiksha.blog.rest.api.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
