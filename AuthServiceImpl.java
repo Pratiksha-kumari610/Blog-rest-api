@@ -1,13 +1,13 @@
-package com.therajverma.blog.rest.api.service.impl;
+package com.thepratiksha.blog.rest.api.service.impl;
 
 
-import com.therajverma.blog.rest.api.entity.Role;
-import com.therajverma.blog.rest.api.entity.User;
-import com.therajverma.blog.rest.api.payload.LoginDto;
-import com.therajverma.blog.rest.api.payload.RegisterDto;
-import com.therajverma.blog.rest.api.repository.RoleRepository;
-import com.therajverma.blog.rest.api.repository.UserRepository;
-import com.therajverma.blog.rest.api.service.AuthService;
+import com.thepratiksha.blog.rest.api.entity.Role;
+import com.thepratiksha.blog.rest.api.entity.User;
+import com.thepratiksha.blog.rest.api.payload.LoginDto;
+import com.thepratiksha.blog.rest.api.payload.RegisterDto;
+import com.thepratiksha.blog.rest.api.repository.RoleRepository;
+import com.thepratiksha.blog.rest.api.repository.UserRepository;
+import com.thepratiksha.blog.rest.api.service.AuthService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
