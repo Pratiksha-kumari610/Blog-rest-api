@@ -1,4 +1,4 @@
-package com.therajverma.blog.rest.api;
+package com.thepratiksha.blog.rest.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
