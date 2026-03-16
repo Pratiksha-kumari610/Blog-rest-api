@@ -1,7 +1,7 @@
-package com.therajverma.blog.rest.api.controller;
+package com.thepratiksha.blog.rest.api.controller;
 
-import com.therajverma.blog.rest.api.entity.Post;
-import com.therajverma.blog.rest.api.service.PostService;
+import com.thepratikshaa.blog.rest.api.entity.Post;
+import com.thepratiksha.blog.rest.api.service.PostService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
