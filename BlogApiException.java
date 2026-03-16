@@ -1,4 +1,4 @@
-package com.therajverma.blog.rest.api.exception;
+package com.thepratiksha.blog.rest.api.exception;
 
 import org.springframework.http.HttpStatus;
 
